@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+architectures: armv7 arm64 i386 x86_64
+description: TiPixelReader
+author: Kosso
+license: Specify your license
+copyright: Copyright (c) 2019 by 
+
+# these should not be edited
+name: TiPixelReader
+moduleid: com.kosso.tipixelreader
+guid: 20c36298-7721-4fea-b2f2-2d7a27f41edb
+platform: iphone
+minsdk: 8.2.0.GA
