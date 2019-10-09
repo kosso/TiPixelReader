@@ -1,6 +1,7 @@
-#TiPixelReader Module
 
-##Description
+# TiPixelReader Module
+
+## Description
 
 Titanium iOS and Android modules for reading a local image and getting the RGB values of each pixel.
 
@@ -20,11 +21,11 @@ See example app.js.
 
 Or TiPixelReaderApp in neighbouring folder in this repo. 
 
-##Author
+## Author
 
 @Kosso 
 
-##License
+## License
 
 MIT
 
